@@ -13,6 +13,7 @@ sudo systemctl start create_ap
 systemctl enable create_ap
 ```
 4、常见错误
+
 4.1: Failed to initialize lock
 ```batch
 sudo rm -rf /tmp/create_ap.all.lock
