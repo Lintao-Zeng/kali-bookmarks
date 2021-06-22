@@ -1,6 +1,6 @@
 1、创建热点
 ```batch
-sudo create_ap wlan0 eth0 test -w2  666666666 &
+sudo create_ap wlan1 wlan0 test -w2  666666666 &
 ```
 
 2、立即启动服务
