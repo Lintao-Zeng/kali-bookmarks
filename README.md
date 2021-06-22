@@ -1,4 +1,19 @@
-Failed to initialize lock
+1、创建热点
+```batch
+sudo create_ap wlan0 eth0 test -w2  666666666 &
+```
+
+2、立即启动服务
+```batch
+sudo systemctl start create_ap
+```
+
+3、开机自启
+```batch
+systemctl enable create_ap
+```
+4、常见错误
+4.1: Failed to initialize lock
 ```batch
 sudo rm -rf /tmp/create_ap.all.lock
 ```
