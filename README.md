@@ -13,3 +13,10 @@
 [linux开热点 - 矮_子 - 博客园](https://www.cnblogs.com/huangshengpeng/p/13860573.html)
 
 [wireless - how to find out if my card supports infrastructure mode? - Ask Ubuntu](https://askubuntu.com/questions/106745/how-to-find-out-if-my-card-supports-infrastructure-mode)
+
+[设备未托管1](https://github.com/oblique/create_ap/issues/95)
+
+[设备未托管2](https://medium.com/@TSwarper/device-not-managed-problem-in-ubuntu-afa28c255ec9)
+
+[重启网络服务时找不到服务](https://www.informaticar.net/failed-to-restart-network-service-unit-network-service-not-found-centos-8/)
+
