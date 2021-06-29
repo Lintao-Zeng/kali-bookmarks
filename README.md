@@ -20,3 +20,4 @@
 
 [重启网络服务时找不到服务](https://www.informaticar.net/failed-to-restart-network-service-unit-network-service-not-found-centos-8/)
 
+[linux安装Genymotion](https://blog.csdn.net/qq_25978793/article/details/49923579)
